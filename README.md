@@ -28,8 +28,7 @@
 
 <h3>Deployed Project Link : </h3>
 <br>
-<br>
-  <a href="https://payway-r2pg.onrender.com/">
+  <a href="https://chai-culture-one.vercel.app/">
          <img src="https://img.shields.io/badge/-Website_Link-blue?style=flat-square" height="30px" width="90px" >
    </a>
    <br>
