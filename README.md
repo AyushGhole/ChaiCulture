@@ -14,3 +14,5 @@
   <li>Clean and modular React component structure</li>
 </ol>
  
+<h2>🎨 Design Approach </h2> 
+<p>The design reflects a premium Indian heritage by using warm colors, elegant typography, and generous spacing. Animations and interactions are kept subtle to enhance the experience without distracting from the brand identity. The layout is optimized for both desktop and mobile devices.</p>
