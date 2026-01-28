@@ -63,7 +63,7 @@ const EmailSignup = () => {
         <Alert
           onClose={handleClose}
           severity="success"
-          sx={{ backgroundColor: "#271c1c", color: "#FAF7F2" }}>
+          sx={{ backgroundColor: "#160b0b", color: "#d6c6a9" }}>
           Thanks for joining! We’ll notify you at launch .
         </Alert>
       </Snackbar>
