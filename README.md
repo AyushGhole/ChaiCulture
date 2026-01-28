@@ -24,6 +24,7 @@
 <span><img src="https://img.shields.io/badge/-Responsive Design-yellow?style=flat-square" height="30px" width="70px" ></span>
 <span><img src="https://img.shields.io/badge/-Bootstrap-79f279?style=flat-square" height="30px" width="90px" ></span>
 <span><img src="https://img.shields.io/badge/-Vercel-009df2?style=flat-square" height="30px" width="70px" ></span>
+<span><img src="https://img.shields.io/badge/Javascript-9d57b3?style=flat-square" height="30px" width="120px" ></span>
 
 <h3>Deployed Project Link : </h3>
 <br>
@@ -32,11 +33,7 @@
          <img src="https://img.shields.io/badge/-Website_Link-blue?style=flat-square" height="30px" width="90px" >
    </a>
    <br>
-   <h4>Demo Link : </h4> 
-   <br>
-    <a href="https://youtu.be/bnzIsao1vLw">
-         <img src="https://img.shields.io/badge/-Demo_Link-blue?style=flat-square" height="30px" width="90px" >
-   </a> 
+ 
 
 
 
